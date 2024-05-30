@@ -24,7 +24,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/RATHERMUZA/syslog-master.git
 
-Rayees sir It, [30/05/2024 10:58]
 Usage
 Navigate to the project directory.
 Install dependencies: npm install.
